@@ -9,5 +9,5 @@
 * Conceito de protótipos em JavaScript
 * Conceitos básicos de Orientação a Objetos com JavaScript
 
-#### O Curos faz parte da formação Javascript para BackEnd em sua primeira parte *Fundamentos do JavaScript*
+#### O Curso faz parte da formação Javascript para BackEnd em sua primeira parte *Fundamentos do JavaScript*
 
